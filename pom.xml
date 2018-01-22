@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.elibrelato</groupId>
-	<artifactId>meu-primeiro-projeto</artifactId>
+	<artifactId>curso-api-restful-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>MeuPrimeiroProjeto</name>
+	<name>curso-api-restful-spring-boot</name>
 	<description>Meu Primeiro Projeto com o Spring Boot, JPA e MySQL</description>
 
 	<parent>
